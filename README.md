@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/chitranshsingh01/Leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chitranshsingh01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -33,4 +34,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chitranshsingh01/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/chitranshsingh01/Leetcode/tree/master/0202-happy-number) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/chitranshsingh01/Leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/chitranshsingh01/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
