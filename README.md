@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chitranshsingh01/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/chitranshsingh01/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Tree
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/chitranshsingh01/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chitranshsingh01/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chitranshsingh01/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
